@@ -1,0 +1,13 @@
+Reporte de Bugs:
+
+1. Debemos separar las barras de la pista para trabajar con un colider independiente
+
+Reporte de lo que falta:
+
+2. Generar mas pistas con diferentes obstaculos
+3. Modificar la interfaz.
+4. Animaciones para el auto.
+5. Colocar a funcionar las monedas.
+
+NOTA: No reportamos avances en unity pero en la clase del miercoles hablare con
+el proesor para aclarar unas dudas y poder comenzar a terminar el alpha.
