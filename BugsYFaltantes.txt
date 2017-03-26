@@ -1,6 +1,9 @@
 Reporte de Bugs:
 
 1. Debemos separar las barras de la pista para trabajar con un colider independiente
+1.1 NullReferenceException: Object reference not set to an instance of an object
+MainMenu.Start () (at Assets/Scripts/MainMenu.cs:14)
+
 
 Reporte de lo que falta:
 
