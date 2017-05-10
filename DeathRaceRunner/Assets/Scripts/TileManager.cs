@@ -20,7 +20,7 @@ public class TileManager : MonoBehaviour {
 
 		for (int i = 0; i < amnTilesOnScreen; i++) 
 		{
-			if (i < 3)
+			if (i < 4)
 				SpawnTile (0);
 			else
 			SpawnTile ();

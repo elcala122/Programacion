@@ -20,7 +20,7 @@ Objetivo: Esquivar los obstaculos la velocidad aumenta progresivamente de desde
 Pista completamente infinita.
 
 -Recolectar la mayor cantidad de monedas posibles.
-
+-Hacer la mayor cantidad de tiempo evitando que algun obstaculo te elimine
 
 Reporte de Bugs:
 
@@ -41,15 +41,20 @@ Reporte de lo que falta:
 2. Modificar la interfaz.
 (LISTO...INTERFAZ TERMINADA)
 3. Animaciones para el auto. (FALTAN, ASI COMO LA ANIMACION DE LA MONEDA)
-4. Colocar a funcionar las monedas.
-
-
- (LISTO!)
-5. IMPLEMENTACION DE SONIDO.(FALTA)
+4. Colocar a funcionar las monedas.(las monedas funcionan y estan animadas se recolectan y se suman respectivamente en el juego)
+5. IMPLEMENTACION DE SONIDO.(Musica principal)
 
 PARA TERMINAR:
 
 LAS ANIMACIONES COMPLETAS Y SE TRATARA DE HACER UN ESCENARIO MAS ENTENDIBLE COMO SI EL CARRO ESTUVIESE EN UNA CIUDAD ARRUINADA!
 
 PLANEAMOS HACER UN BOMBARDEO!
+
+LOS ARCHIVOS DEL JUEGO SON TOMADOS DEL ASSET STORE (ESCENARIO Y MONEDAS)
+
+EL CARRO ES DE NUESTRA PROPIEDAD. (AUTORIZACION DE LA DISEÑADORA PARA USARLO)
+
+LA PROGRAMACION DEL JUEGO SE HIZO CON LA AYUDA DE TUTORIALES EN YOUTUBE, AGREGANDO CONOCIMIENTOS ADQUIRIDOS EN LA MATERIA.
+
+
 
